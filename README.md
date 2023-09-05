@@ -10,3 +10,5 @@ In this Assignment, we work with a dataset known as CIFAR-10, which you can find
 Below, you can find a selection of images from the dataset, each accompanied by its corresponding label. These images serve as representative examples, providing a glimpse into the diverse visual content present within the CIFAR-10 dataset.
 
 ![dataset_preview](Images/class_preview.png)
+
+## 📹 Demo:
